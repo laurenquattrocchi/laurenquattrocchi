@@ -22,6 +22,7 @@ I am Lauren, a second-year graduate student studying [computer science and publi
    <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
 </a>
 
+<sub> credit to [this article](https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1eafe05) for helpful tips.<sub>
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=laurenquattrocchi&show_icons=true"/>
