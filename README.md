@@ -6,17 +6,17 @@ I am Lauren, a second-year graduate student studying [computer science and publi
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
                                                                                                          
 ## I am currently working on:
-- ☁️ building a web application on AWS with Python
-- ⛳ golf
+☁️ building a web application on AWS with Python  
+⛳ golf  
 
 ## I enjoy:
-- 🏀 basketball
-- 🧗‍♀️ rock climbing
-- 🌞 being outdoors
-- 📚 reading
-- 🌱 environmental responsibility
-- 💻 coding for social good
-- 🎵 live music
+🏀 basketball  
+🧗‍♀️ rock climbing  
+🌞 being outdoors  
+📚 reading  
+🌱 environmental responsibility  
+💻 coding for social good  
+🎵 live music  
 
 <a href="https://www.linkedin.com/in/lauren-quattrocchi/">
    <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
