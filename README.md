@@ -6,8 +6,18 @@ I am Lauren, a second-year graduate student studying [computer science and publi
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
                                                                                                          
 ## I am currently working on:
-☁️ building a web application on AWS with Python  
+🔤 building a wordle clone with Python and Rich
 ⛳ golf  
+
+## Recent Projects
+Many repos from school projects are private to follow academic integrity rules and respect intellectual property of professors. Code can be shared with prospective employers upon request
+
+☁️ Cloud hosted web application for Genomics Annotation System on AWS with Python  
+🚕 Lambda framework Web Application for comapring taxi and ride service prices with weather
+🎵 Machine Learning Music Genre Categorization with Python
+👩‍💻 Basic Search Engine Backend with SQLite
+🖥️ REST Database API
+💬 Markov Models for Text Attribution
 
 ## I enjoy:
 🏀 basketball  
