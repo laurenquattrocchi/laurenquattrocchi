@@ -13,11 +13,11 @@ I am Lauren, a second-year graduate student studying [computer science and publi
 Many repos from school projects are private to follow academic integrity rules and respect intellectual property of professors. Code can be shared with prospective employers upon request
 
 ☁️ Cloud hosted web application for Genomics Annotation System on AWS with Python  
-🚕 Lambda framework Web Application for comapring taxi and ride service prices with weather
-🎵 Machine Learning Music Genre Categorization with Python
-👩‍💻 Basic Search Engine Backend with SQLite
-🖥️ REST Database API
-💬 Markov Models for Text Attribution
+🚕 Lambda framework Web Application for comapring taxi and ride service prices with weather  
+🎵 Machine Learning Music Genre Categorization with Python  
+👩‍💻 Basic Search Engine Backend with SQLite  
+🖥️ REST Database API  
+💬 Markov Models for Text Attribution  
 
 ## I enjoy:
 🏀 basketball  
