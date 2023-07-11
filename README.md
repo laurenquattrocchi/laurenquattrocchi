@@ -6,7 +6,7 @@ I am Lauren, a second-year graduate student studying [computer science and publi
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
                                                                                                          
 ## I am currently working on:
-🔤 building a wordle clone with Python and Rich
+🔤 building a wordle clone with Python and Rich  
 ⛳ golf  
 
 ## Recent Projects
