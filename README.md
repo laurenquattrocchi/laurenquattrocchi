@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Lauren, a second-year graduate student studying [computer science and public policy](https://capp.uchicago.edu/) at the University of Chicago . I previously worked as an [IT consultant](https://www.avanade.com/en) in the data engineering, security and infrastructure space, and now hope to use my engineering skills for social good. My pronouns are she/her/hers.
+I am Lauren, a recent graduate of the [MS CAPP Program](https://capp.uchicago.edu/) at the University of Chicago where I studied computer science and public policy. I previously worked as an [IT consultant](https://www.avanade.com/en) in the data engineering, security and infrastructure space, and now hope to use my engineering skills for social good. My pronouns are she/her/hers.
 
 ## I am experienced with:
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
