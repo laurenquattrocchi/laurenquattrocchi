@@ -7,6 +7,7 @@ I am Lauren, a recent graduate of the [MS CAPP Program](https://capp.uchicago.ed
                                                                                                          
 ## I am currently working on:
 🔤 building a wordle clone with Python and Rich  
+📅 building a apointment tracker in Python with Flask and sqlite
 ⛳ golf  
 
 ## Recent Projects
