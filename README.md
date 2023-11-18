@@ -6,9 +6,7 @@ I am Lauren, a recent graduate of the [MS CAPP Program](https://capp.uchicago.ed
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
                                                                                                          
 ## I am currently working on:
-🔤 building a wordle clone with Python and Rich  
-📅 building a apointment tracker in Python with Flask and sqlite  
-⛳ golf  
+⛳ golf outing application
 
 ## Recent Projects
 Many repos from school projects are private to follow academic integrity rules and respect intellectual property of professors. Code can be shared with prospective employers upon request
@@ -19,6 +17,7 @@ Many repos from school projects are private to follow academic integrity rules a
 👩‍💻 Basic Search Engine Backend with SQLite  
 🖥️ REST Database API  
 💬 Markov Models for Text Attribution  
+🔤 Wordle clone with Python and Rich  
 
 ## I enjoy:
 🏀 basketball  
